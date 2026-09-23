@@ -52,6 +52,38 @@ Ready to design bulk extraction of BGC summary table.
 - Taxonomy of top lists: hserlactone = Proteobacteria (Bradyrhizobium, Allorhizobium); siderophore more mixed (Solirubrobacter, Streptomyces, Bacillus, Acidovorax)
 - Next: check unique genomes in the hserlactone top 5
 
+## 2026-09-23
+- Started v1: GCF input preparation
+- hserlactone rows: 1885 from 1413 genomes
+- Host rows: Rice 952, Wheat 365, Alfalfa 324, Maize 244
+- Confirmed region GBK naming: keep *.region*.gbk, skip whole-genome .gbk
+- Extracted region GBKs for those 1413 genomes from part 1 and part 2
+- Saved 12912 region GBKs to processed/region_gbks_hserlactone/
+- Next: BiG-SCAPE on that folder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

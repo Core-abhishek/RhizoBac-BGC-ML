@@ -61,6 +61,33 @@ Ready to design bulk extraction of BGC summary table.
 - Saved 12912 region GBKs to processed/region_gbks_hserlactone/
 - Next: BiG-SCAPE on that folder
 
+## 2026-09-25
+- Installed BiG-SCAPE 2.0.3
+- Test run: 20 region GBKs finished in ~55 seconds
+- Output format confirmed: record_annotations.tsv plus class folders (RiPP, terpene in the test)
+- Started full BiG-SCAPE cluster on 12912 region GBKs from hserlactone genomes
+- Next: when that run finishes, join GCF IDs to host and taxonomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
